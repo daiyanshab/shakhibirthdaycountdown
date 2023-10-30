@@ -1,4 +1,4 @@
-const birthday="7 september 2024 "
+const birthday="11 july 2024 "
 
 function countdown(){
 
